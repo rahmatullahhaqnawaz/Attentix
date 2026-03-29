@@ -235,12 +235,9 @@ attentix/
 
 ---
 
-## Authors
+## Author
+Rehmatullah Haqnawaz
 
 Built for Constructor Tech Hackathon 2026.
 
----
 
-## License
-
-MIT
